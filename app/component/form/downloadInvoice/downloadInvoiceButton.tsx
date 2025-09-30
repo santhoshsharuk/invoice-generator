@@ -55,7 +55,7 @@ export const DownloadInvoiceButton = () => {
               )?.details;
 
               const data = await fetch(
-                `/flag/1x1/${
+                `/invoice-generator/flag/1x1/${
                   currencyDetails?.iconName || defaultCurrency?.iconName
                 }.svg`
               );
