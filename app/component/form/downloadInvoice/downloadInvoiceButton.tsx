@@ -115,35 +115,35 @@ Font.register({
   family: "Geist",
   fonts: [
     {
-      src: "/font/Geist-Thin.ttf",
+      src: "/invoice-generator/font/Geist-Thin.ttf",
       fontWeight: "thin",
     },
     {
-      src: "/font/Geist-Ultralight.ttf",
+      src: "/invoice-generator/font/Geist-Ultralight.ttf",
       fontWeight: "ultralight",
     },
     {
-      src: "/font/Geist-Light.ttf",
+      src: "/invoice-generator/font/Geist-Light.ttf",
       fontWeight: "light",
     },
     {
-      src: "/font/Geist-Regular.ttf",
+      src: "/invoice-generator/font/Geist-Regular.ttf",
       fontWeight: "normal",
     },
     {
-      src: "/font/Geist-Medium.ttf",
+      src: "/invoice-generator/font/Geist-Medium.ttf",
       fontWeight: "medium",
     },
     {
-      src: "/font/Geist-SemiBold.ttf",
+      src: "/invoice-generator/font/Geist-SemiBold.ttf",
       fontWeight: "semibold",
     },
     {
-      src: "/font/Geist-Bold.ttf",
+      src: "/invoice-generator/font/Geist-Bold.ttf",
       fontWeight: "bold",
     },
     {
-      src: "/font/Geist-UltraBlack.ttf",
+      src: "/invoice-generator/font/Geist-UltraBlack.ttf",
       fontWeight: "ultrabold",
     },
   ],
