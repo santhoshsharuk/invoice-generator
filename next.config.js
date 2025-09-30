@@ -1,7 +1,9 @@
-/** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  basePath: '/invoice-generator',
+  output: "export",
+  basePath: "/invoice-generator",
+  assetPrefix: "/invoice-generator/",
+  images: {
+    unoptimized: true,
+  },
 };
-
 module.exports = nextConfig;
