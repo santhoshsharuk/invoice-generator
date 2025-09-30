@@ -44,7 +44,7 @@ const Home = () => {
           <div className="border-t border-dashed border-gray-300 w-full mx-auto py-10 flex justify-center items-center relative">
             <Plus className="text-orange-500 group-hover:text-orange-500 w-7 h-7 absolute top-0 -translate-x-1/2 -translate-y-1/2 left-0" />
             <Image
-              src="/santhosh.png"
+              src="/invoice-generator/santhosh.png"
               width={100}
               height={100}
               className="rounded-lg"
